@@ -80,5 +80,5 @@ Jenny
 - Exploratory Data Analysis, Logistic Regression, Slides and script
 
 Timothy Lim
-- Polynomial regression, Feature Engineering & Selection, Collation & organisation on to Github, Slides and script
+- Polynomial regression, Feature Engineering & Selection, Github coordination, Slides and script
 ## References
