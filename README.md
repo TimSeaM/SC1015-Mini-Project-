@@ -49,7 +49,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
 - EDA
 - Linear Regression 
 - Polynomial Regression
-<br>## Contributors
+## Contributors
 (In alphabetical order)
 
 Jeeho
