@@ -23,7 +23,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
 ## Video presentation
 
 ## Project flow
-[Link Text](http://www.example.com "1. Data cleaning")
+[1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb "1. Data cleaning")
    - Test
    - Why remove BMI etc
 2. Exploratory Data Analysis (EDA)
