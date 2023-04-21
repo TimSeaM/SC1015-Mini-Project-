@@ -26,14 +26,28 @@ The motivation behind this project is to gain a deeper understanding of the fact
 1. Data cleaning
 2. Exploratory Data Analysis (EDA)
 3. Model Training 1 (Linear Regression)
+   - Test
+     - Test
+     - Results
 4. Model Training 2 (Polynomial Regression)
+   - Train with 
+   - Comparison between degree 2 and degree 4
+     - Test
+     - Results
 5. Model Training 3
    - Test
-        - Test
+     - Test
 ## Conclusion
 
 ## Key learning points
-
+Data Cleaning
+- 
+EDA
+-
+Linear Regression
+- 
+Polynomial Regression
+-
 ## Contributors
 
 ## References
