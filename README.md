@@ -49,8 +49,10 @@ The motivation behind this project is to gain a deeper understanding of the fact
 
 Jeeho
 - X
+
 Jenny
 - Y
+
 Timothy
 - Z
 ## References
