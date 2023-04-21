@@ -26,18 +26,22 @@ The motivation behind this project is to gain a deeper understanding of the fact
 [1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb "1. Data cleaning")
    - Test
    - Why remove BMI etc
+
 [2. Exploratory Data Analysis (EDA)]
    - Histogram etc
    - Data altered etc
+
 [3. Model Training 1 (Linear Regression)]
    - Test
      - Test
      - Results
+
 [4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb "1. Data cleaning")
    - Train with Income Composition of Resources
    - Comparison between degree 2 and degree 4
      - Test
      - Results
+
 [5. Model Training 3 (Logistic Regression)]
    - ABC
    - Test
