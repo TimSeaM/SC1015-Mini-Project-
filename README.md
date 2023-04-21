@@ -55,6 +55,8 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
    - Train and Test with "Development"
      - Accuracy: 92%
 
+## Analysis
+
 ## Conclusion
 - The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
 - mmmmmm
