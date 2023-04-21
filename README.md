@@ -48,8 +48,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
 
 [5. Model Training 3 (Logistic Regression)]
    - ABC
-   - G
-     - 
+   - Train and Test with "Development"
      - Accuracy: 92%
 
 ## Conclusion
