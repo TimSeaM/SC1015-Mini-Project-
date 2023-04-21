@@ -40,14 +40,10 @@ The motivation behind this project is to gain a deeper understanding of the fact
 ## Conclusion
 
 ## Key learning points
- Data Cleaning
-- 
- EDA
--
- Linear Regression
-- 
- Polynomial Regression
--
+- Data Cleaning
+- EDA
+- Linear Regression 
+- Polynomial Regression
 ## Contributors
 
 ## References
