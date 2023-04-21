@@ -28,8 +28,8 @@ The motivation behind this project is to gain a deeper understanding of the fact
 3. Model Training 1 (Linear Regression)
 4. Model Training 2 (Polynomial Regression)
 5. Model Training 3
-    - Test
-     - Test
+   - Test
+        - Test
 ## Conclusion
 
 ## Key learning points
