@@ -1,4 +1,4 @@
-### SC1015-Mini-Project
+# SC1015-Mini-Project
 Test
 One
 Two
@@ -7,4 +7,4 @@ ABC
 ## Table of contents
 1. Data cleaning
 2. Test
-#XYz
+## XYz
