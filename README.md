@@ -45,5 +45,12 @@ The motivation behind this project is to gain a deeper understanding of the fact
 - Linear Regression 
 - Polynomial Regression
 ## Contributors
+(In alphabetical order)
 
+Jeeho
+- X
+Jenny
+- Y
+Timothy
+- Z
 ## References
