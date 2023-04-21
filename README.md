@@ -19,6 +19,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
 
 ## Dataset used
 
+The dataset used for this project is retrieved from [here](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
 ## Video presentation
 
