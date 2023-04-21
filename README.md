@@ -1,8 +1,5 @@
 # SC1015 Mini Project: Life Expectancy
-Test
-
-One
-Two
+Lab Y127 
 ## About
 
 In this data science project, we have used the World Health Organization (WHO) dataset on global health indicators to investigate the impact of various factors on life expectancy. The dataset contains a comprehensive collection of health-related indicators from year 2000-2015 for 193 countries, including socio-economic status, demographics, health behaviors, and conditions.
@@ -31,7 +28,8 @@ The motivation behind this project is to gain a deeper understanding of the fact
 3. Model Training 1 (Linear Regression)
 4. Model Training 2 (Polynomial Regression)
 5. Model Training 3
-6. 
+    - Test
+     - Test
 ## Conclusion
 
 ## Key learning points
