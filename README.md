@@ -33,8 +33,9 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
    - Preliminary look at dataset
 
 [2. Exploratory Data Analysis (EDA) & Feature Engineering & Selection](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Exploratory%20Data%20Analysis.ipynb)
-   - Histogram etc
-   - Data altered etc
+   - Visualisation of Life Expectancy
+   - Corrolation matrix & Heat map
+   - Visualisation of selected variables
 
 [3. Model Training 1 (Linear Regression)]
    - Test
@@ -55,7 +56,9 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
      - Accuracy: 92%
 
 ## Conclusion
-- Income Composition of Resources and Schooling are the most important indicators of Life Expectancy. The closer both are to their respective max values, the better the Life Expectancy.
+- The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
+- mmmmmm
+- Income Composition of Resources is the important indicators of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
 - Out of all the 3 models we implemented, Logistic Regression performed the best while Linear regression performed the worst.
 - There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
 
