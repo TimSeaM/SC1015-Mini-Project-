@@ -24,10 +24,12 @@ The motivation behind this project is to gain a deeper understanding of the fact
 
 ## Project flow
 [1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb "1. Data cleaning")
-   - Test
-   - Why remove BMI etc
+   - Variable Name and Description
+   - Abnormal & Missing values
+   - Outliers
+   - Preliminary look at dataset
 
-[2. Exploratory Data Analysis (EDA)]
+[2. Exploratory Data Analysis (EDA) & Feature Engineering & Selection]
    - Histogram etc
    - Data altered etc
 
@@ -37,24 +39,33 @@ The motivation behind this project is to gain a deeper understanding of the fact
      - Results
 
 [4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb "1. Data cleaning")
-   - Train with Income Composition of Resources
-   - Comparison between degree 2 and degree 4
-     - Test
-     - Results
+   - Definition
+   - Pros and Cons
+   - Degree comparison of Polynomial regression 
+   - Train and test with "Income Composition of Resources"
+     - Degree of 4 give the best results without overfitting
+     - Accuracy: 69.5%
 
 [5. Model Training 3 (Logistic Regression)]
    - ABC
-   - Test
-     - Test
-## Conclusion
-Accuracy of the different Regression techniques 
+   - Train and test with "Development" 
+     - 
+     - Accuracy: 92%
 
+## Conclusion
+- Income Composition of Resources and Schooling are the most important indicators of Life Expectancy. The closer both are to their respective max values, the better the Life Expectancy.
+- Out of all the 3 models we implemented, Logistic Regression performed the best while Linear regression performed the worst.
+- There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
 
 ## Key learning points
 - Data Cleaning
-- EDA
+  - Interpolation
+  - Winsorization (Limiting of outliers)
+- EDA & Feature Engineering & Selection
+  - 
 - Linear Regression 
 - Polynomial Regression
+- Logistic Regression
 ## Contributors
 (In alphabetical order)
 
@@ -65,5 +76,5 @@ Jenny
 - Exploratory Data Analysis, Logistic Regression, Slides and script
 
 Timothy Lim
-- Polynomial regression, Collation & organisation on to Github, Slides and script
+- Polynomial regression, Feature Engineering & Selection, Collation & organisation on to Github, Slides and script
 ## References
