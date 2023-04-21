@@ -49,15 +49,15 @@ The motivation behind this project is to gain a deeper understanding of the fact
 - EDA
 - Linear Regression 
 - Polynomial Regression
-## Contributors
+<br>## Contributors
 (In alphabetical order)
 
 Jeeho
-- X
+- Data Cleaning, Linear Regression and Video Presenter 
 
 Jenny
-- Y
+- Exploratory Data Analysis, Logistic Regression, Slides and script
 
-Timothy
-- Z
+Timothy Lim
+- Polynomial regression, Collation & organisation on to Github, Slides and script
 ## References
