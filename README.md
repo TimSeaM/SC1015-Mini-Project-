@@ -33,7 +33,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
    - Test
      - Test
      - Results
-[4. Model Training 2 (Polynomial Regression)] (https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb "1. Data cleaning")
+[4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb "1. Data cleaning")
    - Train with Income Composition of Resources
    - Comparison between degree 2 and degree 4
      - Test
