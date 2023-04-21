@@ -24,17 +24,22 @@ The motivation behind this project is to gain a deeper understanding of the fact
 
 ## Project flow
 1. Data cleaning
+   - Test
+   - Why remove BMI etc
 2. Exploratory Data Analysis (EDA)
+   - Histogram etc
+   - Data altered etc
 3. Model Training 1 (Linear Regression)
    - Test
      - Test
      - Results
 4. Model Training 2 (Polynomial Regression)
-   - Train with 
+   - Train with Income Composition of Resources
    - Comparison between degree 2 and degree 4
      - Test
      - Results
-5. Model Training 3
+5. Model Training 3 (Logistic Regression)
+   - ABC
    - Test
      - Test
 ## Conclusion
