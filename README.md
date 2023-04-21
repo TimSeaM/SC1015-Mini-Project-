@@ -60,7 +60,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
 - Data Cleaning
   - Interpolation
   - Winsorization (Limiting of outliers)
-  - EDA & Feature Engineering & Selection
+- EDA & Feature Engineering & Selection
 - Linear Regression 
 - Polynomial Regression
 - Logistic Regression
