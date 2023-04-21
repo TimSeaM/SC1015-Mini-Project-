@@ -26,13 +26,13 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 ## Video presentation
 
 ## Project flow
-[1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb "1. Data cleaning")
+[1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb )
    - Variable Name and Description
    - Abnormal & Missing values
    - Outliers
    - Preliminary look at dataset
 
-[2. Exploratory Data Analysis (EDA) & Feature Engineering & Selection]
+[2. Exploratory Data Analysis (EDA) & Feature Engineering & Selection](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Exploratory%20Data%20Analysis.ipynb)
    - Histogram etc
    - Data altered etc
 
@@ -41,7 +41,7 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
      - Test
      - Results
 
-[4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb "1. Data cleaning")
+[4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb )
    - Definition
    - Pros and Cons
    - Degree comparison of Polynomial regression 
