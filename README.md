@@ -52,6 +52,7 @@ The motivation behind this project is to gain a deeper understanding of the fact
      - 
      - Accuracy: 92%
 
+
 ## Conclusion
 - Income Composition of Resources and Schooling are the most important indicators of Life Expectancy. The closer both are to their respective max values, the better the Life Expectancy.
 - Out of all the 3 models we implemented, Logistic Regression performed the best while Linear regression performed the worst.
