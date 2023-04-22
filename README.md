@@ -15,7 +15,7 @@ Which variables are the most important predictors of life expectancy ? and are t
 
 ## Motivation
 
-The motivation behind this project is to gain a deeper understanding of the factors that influence life expectancy and use this knowledge to inform targeted and effective policy interventions. The project will also develop a predictive model that estimates an individual's life expectancy based on a chosen set of relevant factors. By identifying the most impactful variables, we can help governments, healthcare organizations, and communities make data-driven decisions to improve population health outcomes and reduce disparities in life expectancy across different regions.
+The motivation behind this project is to gain a deeper understanding of the factors that influence life expectancy and use this knowledge to inform targeted and effective policy interventions. The project will also use predictive models that estimates an individual's life expectancy based on a chosen set of relevant factors. By identifying the most impactful variables, we can help governments, healthcare organizations, and communities make data-driven decisions to improve population health outcomes and reduce disparities in life expectancy across different regions.
 
 ## Dataset used
 
@@ -54,10 +54,8 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 [5. Model Training 3 (Logistic Regression)]
    - ABC
    - Train and Test with "Development"
-     - Accuracy: 92%
+     - Accuracy: 94%
 
-## Analysis
-IDK if this is needed?
 ## Conclusion
 - The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
 - There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
@@ -77,6 +75,7 @@ IDK if this is needed?
   - Degree testing
   - Characteristics of under and over fitting
 - Logistic Regression
+  -XXX
 ## Contributors
 (In alphabetical order)
 
