@@ -46,14 +46,17 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 [4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb )
    - Definition
    - Pros and Cons
-   - Degree comparison of Polynomial regression 
+   - Tuning with Degree comparison of Polynomial regression 
    - Train and test with "Income Composition of Resources"
      - Degree of 4 give the best results without overfitting
      - Accuracy: 69.5%
 
-[5. Model Training 3 (Logistic Regression)]
-   - ABC
+[5. Model Training 3 (Logistic Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Logistic%20Regression%20Model.ipynb)
+   - Definition
+   - Model Evaluation
+   - Tuning using GridSearchCV
    - Train and Test with "Development"
+     - Custom Logistic Regression Model Summary
      - Accuracy: 94%
 
 ## Conclusion
@@ -70,21 +73,22 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
   - Turkey's method (Limiting of outliers)
   - Winsorization 
 - EDA & Feature Engineering & Selection
-- Linear Regression 
+  - Data selection based on Violin graph
 - Polynomial Regression
   - Degree testing
   - Characteristics of under and over fitting
 - Logistic Regression
-  -XXX
+  - Logistic Regression Model training
+  - Model Tuning using GridSearchCV
 ## Contributors
 (In alphabetical order)
 
 Jeeho Lee
-- Data Cleaning, Linear Regression, Video Presenter, Script
+- Data Cleaning, Linear Regression, Video Presenter, Slides and Script
 
 Timothy Lim
-- Polynomial regression, Feature Engineering & Selection, Github coordination, Script
+- Polynomial regression, Feature Engineering & Selection, Github coordination, Slides and Script
 
 Xintong Zhang
 - Exploratory Data Analysis, Logistic Regression, Slides and script
-## References
+
