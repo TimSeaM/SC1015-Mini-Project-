@@ -69,7 +69,8 @@ IDK if this is needed?
 ## Key learning points
 - Data Cleaning
   - Interpolation
-  - Winsorization (Limiting of outliers)
+  - Turkey's method (Limiting of outliers)
+  - Winsorization 
 - EDA & Feature Engineering & Selection
 - Linear Regression 
 - Polynomial Regression
