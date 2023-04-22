@@ -74,6 +74,8 @@ IDK if this is needed?
 - EDA & Feature Engineering & Selection
 - Linear Regression 
 - Polynomial Regression
+  - Degree testing
+  - Characteristics of under and over fitting
 - Logistic Regression
 ## Contributors
 (In alphabetical order)
