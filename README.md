@@ -37,10 +37,11 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
    - Corrolation matrix & Heat map
    - Visualisation of selected variables
 
-[3. Model Training 1 (Linear Regression)]
-   - Test
-     - Test
-     - Results
+[3. Model Training 1 (Linear Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Linear_Regression_Jeeho.ipynb)
+   - Pros and Cons
+   - Linear regression
+     - "GDP" with "Life expectancy"
+     - Accuracy: 27.26%
 
 [4. Model Training 2 (Polynomial Regression)](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Polynomial_Regression_Tim.ipynb )
    - Definition
@@ -60,9 +61,10 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 ## Conclusion
 - The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
 - mmmmmm
-- Income Composition of Resources is the important indicators of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
+- Income Composition of Resources is the most important indicator of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
 - Out of all the 3 models we implemented, Logistic Regression performed the best while Linear regression performed the worst.
 - There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
+- This concludes that how a country uses its income, is the most important datapoint to extrapolate Life expectancy from. As "Income Composition of Resources" measures how good a country is at utilizing its resources, from 0 to 1, the closer it is to 1, the more efficient and effective that ultilisation is, the higher the country's life expectancy will be.
 
 ## Key learning points
 - Data Cleaning
@@ -79,7 +81,7 @@ Jeeho
 - Data Cleaning, Linear Regression, Video Presenter, Script
 
 Timothy Lim
-- Polynomial regression, Feature Engineering & Selection, Github coordination, Slides and script
+- Polynomial regression, Feature Engineering & Selection, Github coordination, Script
 
 Xintong Zhang
 - Exploratory Data Analysis, Logistic Regression, Slides and script
