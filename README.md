@@ -77,7 +77,7 @@ IDK if this is needed?
 ## Contributors
 (In alphabetical order)
 
-Jeeho
+Jeeho Lee
 - Data Cleaning, Linear Regression, Video Presenter, Script
 
 Timothy Lim
