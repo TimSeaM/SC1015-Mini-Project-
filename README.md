@@ -11,7 +11,7 @@ Our precise problem statement is as follows:
 We aim to analyze the WHO dataset to answer two research questions:
 
 Do the initially chosen predicting factors have a significant effect on life expectancy, or do some of these factors have negligible influence?
-Which variables are the most important predictors of life expectancy, and how can we identify and prioritize these key determinants?
+Which variables are the most important predictors of life expectancy ? and are they necessarily disease related ?
 
 ## Motivation
 
@@ -60,11 +60,11 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 IDK if this is needed?
 ## Conclusion
 - The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
-- mmmmmm
-- Income Composition of Resources is the most important indicator of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
-- Out of all the 3 models we implemented, Logistic Regression performed the best while Linear regression performed the worst.
 - There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
-- This concludes that how a country uses its income, is the most important datapoint to extrapolate Life expectancy from. As "Income Composition of Resources" measures how good a country is at utilizing its resources, from 0 to 1, the closer it is to 1, the more efficient and effective that ultilisation is, the higher the country's life expectancy will be.
+
+- Income Composition of Resources is the most important indicator of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
+- Out of all the 3 models we implemented, Logistic Regression performed the best at over 90% while Linear regression performed the worst at under 30%.
+- This concludes that how a country uses its income, is the most important datapoint to extrapolate Life expectancy from. As "Income Composition of Resources" measures how good a country is at utilizing its resources, from 0 to 1, the closer it is to 1, the more efficient and effective that ultilisation is,thus the higher the country's life expectancy will be.
 
 ## Key learning points
 - Data Cleaning
