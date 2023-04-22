@@ -76,11 +76,11 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 (In alphabetical order)
 
 Jeeho
-- Data Cleaning, Linear Regression and Video Presenter 
-
-Jenny
-- Exploratory Data Analysis, Logistic Regression, Slides and script
+- Data Cleaning, Linear Regression, Video Presenter, Script
 
 Timothy Lim
 - Polynomial regression, Feature Engineering & Selection, Github coordination, Slides and script
+
+Xintong Zhang
+- Exploratory Data Analysis, Logistic Regression, Slides and script
 ## References
