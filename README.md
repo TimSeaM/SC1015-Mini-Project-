@@ -64,14 +64,12 @@ The outcome of our project was the development of statistical models to analyze 
 
 Some interesting insights emerged from our analysis. In the polynomial regression model, we discovered that a polynomial function of degree 4 provided the most accurate and well-fitted model when relating the "Income_composition_of_resources" variable with life expectancy. This demonstrates the importance of selecting an appropriate degree for polynomial regression in order to avoid overfitting and underfitting issues.
 
-Our logistic regression analysis revealed that higher life expectancy is associated with a higher likelihood of a country being classified as 'Developed,' while lower life expectancy is more likely to be associated with 'Developing' countries. This information can help inform policy interventions and resource allocation decisions in order to improve population health outcomes.
-
+Our logistic regression analysis revealed that higher life expectancy is associated with a higher likelihood of a country being classified as 'Developed', while lower life expectancy is more likely to be associated with 'Developing' countries.
 
 ## Conclusion
 - The initially chosen predicting factors all have a very big positive effect on life span. The closer to their upper limit they are, the higher the avg lifespan.
 - There is a clear indication that disease statistic, while an indicator of life expectancy, do not matter as much as the allocation of the countries' resources.
-
-- Income Composition of Resources is the most important indicator of Life Expectancy. The closer it is to the max values, the better the Life Expectancy.
+- Income Composition of Resources is the most important indicator of Life Expectancy. The closer it is to the max values, the better the Life Expectancy given at 0.85 correlation rating.
 - Out of all the 3 models we implemented, Logistic Regression performed the best at over 90% while Linear regression performed the worst at under 30%.
 - This concludes that how a country uses its income, is the most important datapoint to extrapolate Life expectancy from. As "Income Composition of Resources" measures how good a country is at utilizing its resources, from 0 to 1, the closer it is to 1, the more efficient and effective that ultilisation is,thus the higher the country's life expectancy will be.
 
