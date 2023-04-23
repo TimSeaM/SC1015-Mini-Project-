@@ -70,7 +70,7 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 ## Key learning points
 - Data Cleaning
   - Interpolation
-  - Turkey's method (Limiting of outliers)
+  - Tukey's method (Limiting of outliers)
   - Winsorization 
 - EDA & Feature Engineering & Selection
   - Data selection based on Violin graph
