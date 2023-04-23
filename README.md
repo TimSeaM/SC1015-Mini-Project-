@@ -1,5 +1,5 @@
 # SC1015 Mini Project: Life Expectancy
-Lab Y127 
+Lab Y127 Team 4
 ## About
 
 In this data science project, we have used the World Health Organization (WHO) dataset on global health indicators to investigate the impact of various factors on life expectancy. The dataset contains a comprehensive collection of health-related indicators from year 2000-2015 for 193 countries, including socio-economic status, demographics, health behaviors, and conditions.
