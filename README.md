@@ -25,6 +25,8 @@ Datasets used and produced are uploaded here as "Life Expectancy Data.csv" and "
 
 ## Video presentation
 
+[Here](https://youtu.be/EdEJHcYjNiw)
+
 ## Project flow
 [1. Data cleaning](https://github.com/TimSeaM/SC1015-Mini-Project-/blob/main/Data%20Cleaning.ipynb )
    - Variable Name and Description
